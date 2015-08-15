@@ -16,7 +16,8 @@ int main(int argc, const char * argv[]) {
         //create an instance of Shapes
         Shapes *square1 = [[Shapes alloc] init];
         
-        //values for instance variables
+        //values for instance
+        //variables
         square1.heightInMeters = 60;
         square1.lengthInMeters = 60;
         
